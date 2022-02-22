@@ -27,7 +27,8 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 20px;
+  margin-top: 70px;
+  margin-bottom: 70px;
 }
 
 .timer {
