@@ -66,9 +66,12 @@ input[type='text'] {
   height: 60px;
   margin-right: 20px;
   font-size: 30px;
+  border-radius: 4px;
 }
 .timer__btn {
+  font-family: 'Roboto', sans-serif;
   font-size: 30px;
+  text-transform: uppercase;
   padding: 11px 60px;
   border-radius: 4px;
 }
