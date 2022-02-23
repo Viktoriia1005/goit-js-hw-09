@@ -63,11 +63,12 @@ button {
 }
 
 input[type='text'] {
-  width: 400px;
+  width: 485px;
   height: 60px;
   margin-right: 20px;
-  font-size: 30px;
+  font-size: 60px;
   border-radius: 4px;
+  color: rgb(6, 6, 88);
 }
 .timer__btn {
   font-family: 'Roboto', sans-serif;
